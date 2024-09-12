@@ -26,6 +26,9 @@ body{
 .service-element a{
     color: black;
 }
+.service-element a:hover{
+    color: blue;
+}
 .service-element a, .sign-element{
     padding: 0 5px;
     text-decoration: none;
